@@ -1,1 +1,3 @@
-ssddffdsada
+public Class App {
+
+}
